@@ -26,7 +26,7 @@ Ele permite cadastrar contas, realizar operações financeiras e exibir os resul
 
 ## ⚙️ Tecnologias e Conceitos Aplicados
 
-- Java SE 17+  
+- Java SE 24+  
 - Programação Orientada a Objetos (POO)  
 - Encapsulamento e validação em métodos  
 - Criação e uso de exceções personalizadas  
